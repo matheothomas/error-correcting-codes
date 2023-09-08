@@ -36,6 +36,7 @@ Message final :  Hello, World !
 ```
 
 The following images are produced :
+
 ![signal_analogique_emis](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/images/signal_analogique_emis.png)
 
 ![signal_analogique_recu](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/images/signal_analogique_recu.png)
