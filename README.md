@@ -3,7 +3,7 @@
 This project has been realised during my two-year CPGE class in France and was part of the "Grandes écoles" competitive exam of 2023 where it received a 17/20 grade.
 
 ## Presentation
-This project is aimed towards studying the main principles of error-correcting codes, and coding a simulation of the Hamming code.
+This project is aimed towards studying the main principles of error-correcting codes through the linear algebra spectrum, and coding a simulation of the Hamming code.
 
 ### Documentation
 - [MCOT](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/TIPE/mcot.pdf), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
