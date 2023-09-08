@@ -7,7 +7,7 @@ This project is aimed towards studying the main principles of error-correcting c
 
 ### Documentation
 - [MCOT](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/TIPE/mcot.pdf), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
-- [Presentation](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/TIPE/presentation), used as a support during the assessment of the exam.
+- [Presentation](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/TIPE/presentation.pdf), used as a support during the assessment of the exam.
 
 ## Simulation
 Made with python, it simulates the emission and reception of a message, while using the **Hamming code** (7,4) principle to avoid some perturbations.
@@ -34,8 +34,8 @@ Message final :  Hello, World !
 ```
 
 The following images are produced :
-![signal_analogique_emis](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/signal_analogique_emis.png)
+![signal_analogique_emis](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/images/signal_analogique_emis.png)
 
-![signal_analogique_recu](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/signal_analogique_recu.png
+![signal_analogique_recu](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/images/signal_analogique_recu.png)
 
-![transformee_de_fourier](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/transformee_de_fourier.png
+![transformee_de_fourier](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/images/transformee_de_fourier.png)
