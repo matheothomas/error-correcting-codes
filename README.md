@@ -6,8 +6,8 @@ This project has been realised during my two-year CPGE class in France and was p
 This project is aimed towards studying the main principles of error-correcting codes, and coding a simulation of the Hamming code.
 
 ### Documentation
-- [MCOT](), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
-- [Presentation](), used as a support during the assessment of the exam.
+- [MCOT](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/TIPE/mcot), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
+- [Presentation](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/TIPE/presentation), used as a support during the assessment of the exam.
 
 ## Simulation
 Made with python, it simulates the emission and reception of a message, while using the **Hamming code** (7,4) principle to avoid some perturbations.
@@ -34,3 +34,8 @@ Message final :  Hello, World !
 ```
 
 The following images are produced :
+![signal_analogique_emis](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/signal_analogique_emis.png)
+
+![signal_analogique_recu](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/signal_analogique_recu.png
+
+![transformee_de_fourier](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/images/transformee_de_fourier.png
