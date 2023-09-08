@@ -6,7 +6,7 @@ This project has been realised during my two-year CPGE class in France and was p
 This project is aimed towards studying the main principles of error-correcting codes, and coding a simulation of the Hamming code.
 
 ### Documentation
-- [MCOT](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/TIPE/mcot), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
+- [MCOT](https://github.com/matheothomas/error-correcting-codes/blob/main/resources/TIPE/mcot), it introduces the subject and develops the goals of the presentation, it contains a bibliography.
 - [Presentation](https://github.com/matheothomas/error-correcting-codes/tree/main/resources/TIPE/presentation), used as a support during the assessment of the exam.
 
 ## Simulation
