@@ -21,9 +21,11 @@ Made with python, it simulates the emission and reception of a message, while us
 5. The Hamming code principle is applied.
 6. The message is converted in alphanumeric characters.
 
+### Usage
+The input at line 185 can be replaced with any string.
 
 ### Example
-Input : Hello, World !
+Input : "Hello, World !"
 ```python
 Message initial :  Hello, World !
 Message converti en binaire :  0100100001100101011011000110110001101111001011000010000001010111011011110111001001101100011001000010000000100001
